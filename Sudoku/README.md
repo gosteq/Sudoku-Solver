@@ -7,15 +7,15 @@ If you want to see how fast it can be look at these examples
 (processor: Intel Pentium Dual Core T4300 2.1GHz (notebook)):
 
 1)	
-	-6--2--4-
-	5--3-----
-	-8--1----
-	6----7---
-	-37---28-
-	-2-8---3-
-	---------
-	7--4----1
-	----6--2-
+	-6--2--4-								
+	5--3-----								
+	-8--1----								
+	6----7---								
+	-37---28-								
+	-2-8---3-								
+	---------								
+	7--4----1								
+	----6--2-									
 	
 	Solutions: 1917
 	
