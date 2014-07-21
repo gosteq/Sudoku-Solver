@@ -24,13 +24,13 @@ If you want to see how fast it can be look at these examples
 		
 2)  8___3__4_				Solutions 253238
     _____9__5
-	_51__6_3_
-	__5_4___9
-	___1_2___
-	______3__
-	_3_7__68_
-	_________
-	_________
+    _51__6_3_
+    __5_4___9
+    ___1_2___
+    ______3__
+    _3_7__68_
+    _________
+    _________
 	
 	With compiler optimalization:
 		-O0 : 13104 ms
