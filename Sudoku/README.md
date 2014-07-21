@@ -7,10 +7,10 @@ If you want to see how fast it can be look at these examples
 (processor: Intel Pentium Dual Core T4300 2.1GHz (notebook)):
 
 1)	
-	-6--2--4-								
-	5--3-----								
-	-8--1----								
-	6----7---								
+	_6__2__4_								
+	5__3_____								
+	 8  1    								
+	6----7   								
 	-37---28-								
 	-2-8---3-								
 	---------								
