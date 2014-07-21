@@ -6,7 +6,8 @@ unique solutions. What is more, you can save the result to a file.
 If you want to see how fast it can be look at these examples
 (processor: Intel Pentium Dual Core T4300 2.1GHz (notebook)):
 
-1)	-6--2--4-				
+1)	
+	-6--2--4-				
 	5--3-----
 	-8--1----
 	6----7---
